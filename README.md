@@ -75,9 +75,3 @@ Detalle, decisiones técnicas e impacto medible en el repo [`proyectos-profesion
 - **LinkedIn:** [cristian-oropeza-yepiz](https://linkedin.com/in/cristian-oropeza-yepiz)
 - **CV:** disponible en [`cv`](https://github.com/Cristian-Oropeza/cv)
 - **Ubicación:** Dolores Hidalgo, Guanajuato, México
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cristian-Oropeza&show_icons=true&hide_border=true&count_private=true&theme=transparent" alt="GitHub stats" />
-</p>
